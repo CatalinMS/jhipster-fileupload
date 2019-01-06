@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.catalinms.fileupload"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "fileupload",
+    "packageName": "com.catalinms.fileupload",
+    "packageFolder": "com/catalinms/fileupload",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Zjg3ZDRlN2Y1OWU0MjRiY2UzMTg5ZmNmNmMzZjcxMzg3MjhjZmFhYWZjNjMyYjE4ZTY5ODcyZjc2YmE2MTQzNGUyNjBlZjE4YTY4ODEwNjgzNzhlODgyYmY2OGExZWJiOWE0ZDcxYmRlZDVlNGU5MDRhYjdmNDlkMjYyYjJlODM=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
